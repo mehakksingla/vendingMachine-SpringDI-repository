@@ -1,0 +1,7 @@
+A::Getorade::2.90::8
+B::O Henry::2.50::8
+C::Mars::1.75::0
+D::Pepsi::1.10::4
+E::Coke::3.00::0
+F::Kitkat::2.45::7
+G::Cappuccino::2.50::8
